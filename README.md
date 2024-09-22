@@ -1,12 +1,12 @@
 <div align="center">
-  <p>안녕하세요.</p>
-  <p style="display: inline-block;">Software Enginner 임동규 입니다 👋</p>
-</div>
 
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/maruachi?pet-id=625558643611002044" width="500" height="200"/>
-  </a>
+### 안녕하세요.
+### Software Enginner 임동규 입니다 👋
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/maruachi?pet-id=625558643611002044" width="500" height="200"/>
+</a>
+
 </div>
 
 <!--
